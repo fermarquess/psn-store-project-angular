@@ -1,0 +1,16 @@
+.menu-bar-sony__container{
+    background-color: #000;
+    display: flex;
+    position: sticky;
+    width: 100%;
+    z-index: 9999;
+    height: 30px;
+     
+
+}
+
+.menu-bar-sony__logo > img{
+    position: absolute;
+    right: 5px;
+    
+}
